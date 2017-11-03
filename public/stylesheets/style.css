@@ -4,14 +4,18 @@ body {
   background-image: url("https://static.pexels.com/photos/110322/pexels-photo-110322.jpeg");
     background-repeat: no-repeat;
     background-position: right top;
-    margin-right: 200px;
-    background-attachment: fixed;
-    margin-left: 20%;
     margin-right: 20%;
+    margin-left: 20%;
+    background-attachment: fixed;
 }
 
 a {
   color: #00B7FF;
+    padding: 10px;
+}
+
+h1 {
+    background-color: lightblue;
     padding: 10px;
 }
 
@@ -21,11 +25,6 @@ h2 {
 
 .input {
     margin: 10px;
-}
-
-h1 {
-    background-color: #7777FF;
-    padding: 10px;
 }
 
 div {
