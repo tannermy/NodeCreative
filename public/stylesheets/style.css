@@ -1,8 +1,25 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("https://static.pexels.com/photos/110322/pexels-photo-110322.jpeg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    background-attachment: fixed;
 }
 
 a {
   color: #00B7FF;
+}
+
+h1 {
+    background-color: blue;
+}
+
+div {
+    background-color: lightblue;
+}
+
+p {
+    background-color: lightgrey;
 }
